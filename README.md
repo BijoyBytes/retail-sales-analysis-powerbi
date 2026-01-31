@@ -1,4 +1,4 @@
-#  Sales Analysis Report – Power BI Project – Power BI Project
+#  Sales Analysis Report – Power BI Project
 
 ## Project Overview
 
@@ -21,7 +21,6 @@ This project demonstrates the use of Power BI to analyze sales performance and p
 
 This project analyzes sales data to evaluate business performance using interactive Power BI dashboards. It focuses on key metrics such as sales, profit, and profit margin to uncover trends, product performance, and channel effectiveness for data-driven decision-making.
 
----
 ![Library_project](https://github.com/BijoyBytes/retail-sales-analysis-powerbi/blob/main/TOOLS.png)
 ## 🧩 Dataset & Tables
 
@@ -39,7 +38,7 @@ This project analyzes sales data to evaluate business performance using interact
 
 ---
 
-## 🔧 Data Preparation
+## Data Preparation
 
 * Removed duplicates and handled missing values
 * Standardized date and numeric formats
@@ -53,7 +52,7 @@ This project analyzes sales data to evaluate business performance using interact
 * Built relationships between fact and dimension tables
 * Optimized model performance for reporting
 
----
+
 
 ## 📐 DAX Measures (KPIs)
 
@@ -77,47 +76,5 @@ This project analyzes sales data to evaluate business performance using interact
 
 ##  Dashboard Highlights
 
-* KPI cards for Sales, Profit, Margin, Orders, and Products
-* Monthly sales and profit trend analysis
-* Top products by sales and profit
-* Channel-wise sales contribution
-* Interactive slicers for **Year** and **State**
+![Library_project](https://github.com/BijoyBytes/retail-sales-analysis-powerbi/blob/main/sales_dashbord.jpeg)
 
----
-
-## 🔍 Key Insights
-
-* Sales show seasonal patterns with peak months
-* A small set of products contributes most revenue
-* Online and Store channels drive the highest sales
-* Certain channels and products show low profitability
-
----
-
-## 💡 Recommendations
-
-* Focus on high-margin products to improve profitability
-* Align marketing efforts with peak sales periods
-* Optimize underperforming channels and products
-* Review promotions impacting profit margins
-
----
-
-## ✅ Conclusion
-
-This Power BI Sales Analysis project provides a comprehensive view of business performance through interactive dashboards and KPIs, enabling stakeholders to make informed, data-driven decisions.
-
----
-
-## 🛠 Tools & Technologies
-
-* Microsoft Power BI
-* Power Query
-* DAX
-* Data Modeling
-
----
-
-
-
-![Library_project](https://github.com/BijoyBytes/retail-sales-analysis-powerbi/blob/main/TOOLS.png)
